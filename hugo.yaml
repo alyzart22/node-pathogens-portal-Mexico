@@ -1,0 +1,36 @@
+# Should be replaced with real one during implementation
+baseURL: "https://pathogensportal.node/"
+title: "Node Pathogens Portal"
+theme: "node-pathogens-portal-theme"
+
+# page with date in future will be included in the build
+buildFuture: true
+
+# default only english language, add more languages here if desired
+languages:
+  en:
+    languageName: English
+    languageCode: en
+
+# some parameters that can be used across site, such variable can be defined here than in front matter
+params:
+  title: "Node Pathogens Portal"
+  description: "Node Pathogens Portal provides information about available datasets, resources, tools, and services related to pandemic preparedness."
+  images:
+    - /img/pathogens_logo.svg
+  # country: 
+  # git_repository: 
+  # twitter:
+  # linkedin: 
+  # contact_email:
+
+
+
+# The following setting is to render HTML content in a markdown file.
+# Can be set to true only if you have complete control over the content
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
