@@ -6,6 +6,7 @@ menu:
   dashboards:
     name: External dashboard
     identifier: external_dashboard
+dashboards_topics: [demotopic2, COVID-19, Infectious diseases]
 redirect_url: "https://data.who.int/dashboards/global-progress"
 ---
 
