@@ -1,10 +1,10 @@
 ---
-title: "Sample news 2 on Portal launch"
+title: "Sample news on Portal launch"
 date: 2021-11-12
-summary: Sample news 2 summary on Portal Launch
-banner: /updates/banners/demo_logo.jpg
-banner_large: /updates/banners/demo_logo.jpg
-banner_caption: Sample news 2 banner caption
+summary: Sample news summary on Portal Launch
+banner: /news/banners/news1.png
+banner_large: /news/banners/news1.png
+banner_caption: Sample news banner caption
 ---
 
 This is a demo news item about portal launch.

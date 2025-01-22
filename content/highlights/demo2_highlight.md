@@ -1,13 +1,12 @@
 ---
 title: "Sample Highlight"
-date: 2025-01-01
+date: 2023-01-01
 summary: Sample Demo-2 summary for the highlight comes here.
-banner: /highlights/demo_logo.jpg # banner is used for the banner image
-banner_large: /highlights/demo_logo.jpg # banner_large is used for the large banner image
+banner: /highlights/banners/demo_logo.jpg # banner is used for the banner image
+banner_large: /highlights/banners/demo_logo.jpg # banner_large is used for the large banner image
 banner_caption: "Demo caption" # banner_caption is used for the caption of the banner image
-highlights_topics: [demo, demo2] # highlights_topics are used for filtering highlights
+highlights_topics: [demotopic2] # highlights_topics are used for filtering highlights
 tags: [demo] # tags are used for related highlights
-images: [/highlights/demo_logo.jpg] # images are used for the images of the highlight
 ---
 
 This is a demo data highlight item.
@@ -22,4 +21,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 DOI: [Dummy DOI](#)
 
-Dummy Author-1, Author-2, 
+Citation: Dummy Author-1, Author-2. (2025). *Title of the Dummy Publication*. Journal of Dummy Studies, 10(2), 123-456. DOI: [10.1234/dummy.doi](#)
