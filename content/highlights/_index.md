@@ -9,3 +9,7 @@ menu:
 ---
 
 The _Data Highlights_ section showcases recently published datasets relevant to pandemic preparedness research by researchers. This is sample content that needs to be replaced with actual data highlights.
+
+To easily find data highlights relevant to a specific topic, simply click on the coloured tag and the page will filter and display only the highlights related to that topic. Alternatively, use the search bar to find highlights of potential interest.
+
+If you have published or are about to publish data that you think should be highlighted in this section, please contact the portal team.
