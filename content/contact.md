@@ -4,6 +4,7 @@ menu:
   navbar_top:
     name: Contact
     identifier: contact
+    weight: 20
   footer_about:
     name: Support & Feedback
     identifier: contact

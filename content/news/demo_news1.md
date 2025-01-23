@@ -1,7 +1,10 @@
 ---
 title: "Sample news on Portal launch"
-date: 2025-01-01
-thumbnail: "/news/demo_logo.jpg"
+date: 2021-11-12
+summary: Sample news summary on Portal Launch
+banner: /news/banners/news1.png
+banner_large: /news/banners/news1.png
+banner_caption: Sample news banner caption
 ---
 
 This is a demo news item about portal launch.

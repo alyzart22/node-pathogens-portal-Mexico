@@ -4,7 +4,7 @@ title: "Node Pathogens Portal"
 theme: "node-pathogens-portal-theme"
 
 # page with date in future will be included in the build
-buildFuture: true
+# buildFuture: true
 
 # default only english language, add more languages here if desired
 languages:
@@ -24,7 +24,13 @@ params:
   # linkedin: 
   # contact_email:
 
+taxonomies:
+  highlights_topic: highlights_topics
+  dashboards_topic: dashboards_topics
 
+permalinks:
+  highlights_topics: "/highlights/topics/:slug/"
+  dashboards_topics: "/dashboards/topics/:slug/"
 
 # The following setting is to render HTML content in a markdown file.
 # Can be set to true only if you have complete control over the content
@@ -33,4 +39,11 @@ markup:
     renderer:
       unsafe: true
 
+related:
+  includeNewer: true
+  indices:
+    - name: tags
+      weight: 100
+      threshold: 80
+      toLower: false
 

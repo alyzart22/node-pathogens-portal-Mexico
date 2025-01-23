@@ -4,9 +4,11 @@ menu:
   navbar_top:
     name: About
     identifier: about
+    weight: 10
   footer_about:
     name: About the portal
     identifier: about
+    weight: 10
 ---
 
 ## About

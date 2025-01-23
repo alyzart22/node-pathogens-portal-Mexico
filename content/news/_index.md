@@ -1,5 +1,8 @@
 ---
-title: News & Highlights
+title: Portal news
+menu:
+    footer_about:
+        name: Portal news
+        weight: 15
 ---
-
-News and Highlights about the portal can be foudn here.
+In this section, we report major pieces of news related to the Portal. This can include, for example, new pages, new/improved features, or important progress in the field of pandemic preparedness.
