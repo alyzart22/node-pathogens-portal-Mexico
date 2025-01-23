@@ -15,6 +15,8 @@ A minimal/example hugo site for node pathogens portal, it uses a [theme](https:/
   - [Events](#events)
   - [New content](#new-content)
 - [Themes](#themes)
+  - [Layout](#layout)
+  - [Update theme](#update-theme)
 - [Credits](#credits)
 
 ## Requirements
@@ -242,6 +244,49 @@ If you desire to create a new layout or replace the exisitng layouts. Just creat
 - creating `layout/dashboards/single.html` will affect how the `content/dashboards/internal_dash.md` (and other pahes within dashboards) are displayed
 
 `hugo` layouts are sophisticated and you can read more about it [here](https://gohugo.io/templates/)
+
+### Update theme
+
+The [node pathogens portal theme](https://github.com/ScilifelabDataCentre/node-pathogens-portal-theme) might be updated from time to time, in case if you like to pull the latest changes, follow the steps below. 
+
+1) Open a terminal and go to themes folder in the `hugo` project
+
+    ```
+    cd <hugo project path>/themes/node-pathogens-portal-theme
+    ```
+
+2) Once in the `themes/node-pathogens-portal-theme` run
+
+    ```
+    git checkout main
+    ```
+
+3) Pull the latest changes
+
+    ```
+    git pull origin main
+    ```
+
+4) Go back to project root again
+
+    ```
+    cd ../..
+    ```
+
+5) Add this change so that the lastest commit of the theme is linked to the hugo repo
+
+    ```
+    git add themes/node-pathogens-portal-theme
+    ```
+
+6) Commit the change and push to remote as usual
+
+    ```
+    git commit -m "Updated the theme"
+    git push origin <branch name>
+    ```
+
+    **Note:** Above step have two commands and `<branch name>` will be the branch you are working on.
 
 ## Credits
 
