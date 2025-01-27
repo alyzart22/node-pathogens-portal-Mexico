@@ -18,11 +18,18 @@ params:
   description: "Node Pathogens Portal provides information about available datasets, resources, tools, and services related to pandemic preparedness."
   images:
     - /img/pathogens_logo.svg
-  # country: 
-  # git_repository: 
-  # twitter:
-  # linkedin: 
-  # contact_email:
+  # local node info, logo will be displayed above pathogens logo
+  node_logo: "/img/example_logo.png"
+  node_url: "https://example.com/"
+  node_country: "Sweden"
+  # social media accounts URL to display in footer if desired
+  social_media:
+    show_in_footer: true
+    twitter_url: "https://x.com/"
+    linkedin_url: "https://www.linkedin.com/"
+    contact_email: "mail@example.com"
+  # Url to github repository, node should keep the URL of their fork
+  git_repository: "https://github.com/ScilifelabDataCentre/node-pathogens-portal"
 
 taxonomies:
   highlights_topic: highlights_topics

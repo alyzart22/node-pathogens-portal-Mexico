@@ -7,6 +7,8 @@ A minimal/example hugo site for node pathogens portal, it uses a [theme](https:/
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Configuration](#configuration)
+  - [Must updated params](#must-updated-params)
+  - [Multi language site](#multi-language-site)
 - [Customisation](#customisation)
   - [Dashboards](#dashboards)
   - [Highlights](#highlights)
@@ -69,19 +71,35 @@ The following steps are for a quick setup/starting guide, `Hugo` should have bee
 
 By default, `hugo` looks for the config file named `hugo.yaml` in the root directoy. You can configure the site by editing the config file to your need. Some useful config options are mentioned below and you can read more about `hugo` configuration [here](https://gohugo.io/getting-started/configuration/)
 
-### Params
+### Must updated params
 
-A site wide needed variable can be added as custom parameters. The following parameters should be added to `hugo.yaml` to avoid unreferred links in the footer section.
+Site wide variablea can be added as custom parameters. The following parameters **should be added/updated** in the `hugo.yaml`. If the below mentioned vairables already have a _(dummy)_ value set, overwrite it with desired value.
 
-- country
-- git_repository
-- twitter
-- linkedin
-- contact_email
+#### Node info
 
-If you look at the `params` section in the [config file](https://github.com/ScilifelabDataCentre/node-pathogens-portal/blob/main/hugo.yaml), you can see the commented parameter. Uncomment it and put in valid values.
+Node related information are set using the following variables in `params` section. These should be set the show your logo beside the pathogens logo at the top of the website.
 
-### Multi-language
+```yaml
+  node_logo: ""
+  node_url: ""
+  node_country: ""
+```
+
+#### Social media info
+
+Node's social media accounts can be highlighted if the following variables are set in the `params` section.
+
+```yaml
+  social_media:
+    show_in_footer: true
+    twitter_url: ""
+    linkedin_url: ""
+    contact_email: ""
+```
+
+When `show_in_footer` is set to `true`, it will add a section `Connect` in the footer with the links to node's social media urls
+
+### Multi language site
 
 Hugo supports multilingual website, read more [here](https://gohugo.io/content-management/multilingual/#configure-languages) about language configuration and [here](https://gohugo.io/content-management/multilingual/) for multi language content.
 

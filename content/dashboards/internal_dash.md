@@ -9,4 +9,6 @@ menu:
 dashboards_topics: [demotopic2]
 ---
 
-A desired dashboard here generated at the pathogen portal node.
+A desired dashboard that is developed in house to visualise relevant local (i.e. national) data.
+
+For example, see <a target="_blank" href="https://www.pathogens.se/dashboards/variants_region_uppsala/">SARS-CoV-2 variants dashboard</a> in the Swedish pathogens portal.

@@ -9,4 +9,5 @@ menu:
     name: Demo Topic 1
     identifier: demotopic1
 ---
-Content for Sample Topic 1. 
+
+This is a demo topic, checkout "<a target="_blank" href="https://pathogensportal.ch/tags/bacteria/">bacteria</a>" topic in Swiss pathogens portal or "<a target="_blank" href="https://www.pathogens.se/topics/mpox/">mpox</a>" topic in Swedish pathogens portal.

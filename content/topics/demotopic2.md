@@ -7,4 +7,5 @@ menu:
     name: Demo topic 2  
     identifier: demotopic2
 ---
-Content for Sample Topic 2. 
+
+This is a demo topic, checkout "<a target="_blank" href="https://pathogensportal.ch/tags/surveillance/">surveillance</a>" topic in Swiss pathogens portal or "<a target="_blank" href="https://www.pathogens.se/topics/antibiotic-resistance/">antibiotic resistance</a>" topic in Swedish pathogens portal.

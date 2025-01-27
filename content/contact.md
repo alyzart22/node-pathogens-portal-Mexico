@@ -10,4 +10,4 @@ menu:
     identifier: contact
 ---
 
-We welcome questions and suggestions, you can reach us by sending us an email to email@email.com
+For any questions regarding onboarding or the project, kindly contact the <a target="_blank" href="https://pathogendatanetwork.org/contact/">Pathogen data network</a>.
