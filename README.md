@@ -308,6 +308,8 @@ The [node pathogens portal theme](https://github.com/ScilifelabDataCentre/node-p
 
 ## Credits
 
+This project is supported by the National Institute Of Allergy And Infectious Diseases of the National Institutes of Health under Award Number U24AI183840. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
 This site developed by [Scilifelab Data Centre](https://www.scilifelab.se/data/) as part of [PDN project](https://pathogendatanetwork.org/) and is based on [central pathogens portal](https://www.pathogensportal.org/), [Swedish pathogen portal](https://www.pathogens.se/) and [Swiss pathogen portal](https://pathogensportal.ch/).
 
 We thank [Swiss Institute of Bioinformatics](https://www.sib.swiss/), [EMBL-EBI](https://www.ebi.ac.uk/) and all collaborators.
