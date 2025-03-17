@@ -19,6 +19,8 @@ A minimal/example hugo site for node pathogens portal, it uses a [theme](https:/
 - [Themes](#themes)
   - [Layout](#layout)
   - [Update theme](#update-theme)
+- [Analytics](#analytics)
+- [Hosting](#hosting)
 - [Credits](#credits)
 
 ## Requirements
@@ -305,6 +307,14 @@ The [node pathogens portal theme](https://github.com/ScilifelabDataCentre/node-p
     ```
 
     **Note:** Above step have two commands and `<branch name>` will be the branch you are working on.
+
+## Analytics
+
+It can be useful to collect metrics for a website (like number of visits across the site and for each pages). There are several tools (free and paid) that can be used for this. Few examples [Google Analytics](https://developers.google.com/analytics/devguides/collection/ga4), [Motomo](https://matomo.org/), [Mixpanel](https://mixpanel.com/), etc
+
+## Hosting
+
+Hosting means getting the content to the internet, this can be done in different ways. Contact your university/group IT team regarding this, as there can be organisational policies/regulations on this.
 
 ## Credits
 
