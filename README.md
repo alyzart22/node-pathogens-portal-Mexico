@@ -31,9 +31,9 @@ A minimal/example hugo site for node pathogens portal, it uses a [theme](https:/
 
 The following steps are for a quick setup/starting guide, `Hugo` should have been installed (link mentioned above) in your computer before following the below mentioned steps.
 
-1) Fork this repository to your own github organisation, if desired you can use different name for the repository while forking. More information on how to do that can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+1) Fork this repository to your own github organisation, if desired you can use different name for the repository while forking. More information on how to do that can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) or watch the [demo video](https://youtu.be/Ycq1HamGa9I).
 
-2) Clone the forked repository to your computer using the following command in a terminal
+2) Clone the forked repository to your computer using the following command in a terminal ([demo video](https://youtu.be/Y53Cny4LHNo))
 
     ```
     git clone --recursive <your fork url>
@@ -49,7 +49,7 @@ The following steps are for a quick setup/starting guide, `Hugo` should have bee
     cd <repository name>
     ```
 
-4) Start `hugo` and see if works as expected
+4) Start `hugo` and see if works as expected ([demo video](https://youtu.be/6lJ43sGCPzY))
 
     ```
     hugo serve
