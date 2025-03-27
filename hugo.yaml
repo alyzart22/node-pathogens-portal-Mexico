@@ -19,6 +19,7 @@ params:
   images:
     - /img/pathogens_logo.svg
   # local node info, logo will be displayed above pathogens logo
+  # given 'node_country' is an example, change the value to actual country
   node_logo: "/img/example_logo.png"
   node_url: "https://example.com/"
   node_country: "Sweden"

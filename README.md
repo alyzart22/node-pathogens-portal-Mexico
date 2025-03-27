@@ -2,6 +2,8 @@
 
 A minimal/example hugo site for node pathogens portal, it uses a [theme](https://github.com/ScilifelabDataCentre/node-pathogens-portal-theme) inspired by [Swedish pathogen portal](https://www.pathogens.se/) and [Swiss pathogen portal](https://pathogensportal.ch/), while following the visual identity of [central pathogens portal](https://www.pathogensportal.org/).
 
+More information about Pathogen Portal Nodes (PPN) and Pathogen Data Network (PDN) can be found in this [Onboarding material](static/docs/Onboarding_Introduction.pdf)
+
 ## Content
 
 - [Requirements](#requirements)
@@ -31,9 +33,9 @@ A minimal/example hugo site for node pathogens portal, it uses a [theme](https:/
 
 The following steps are for a quick setup/starting guide, `Hugo` should have been installed (link mentioned above) in your computer before following the below mentioned steps.
 
-1) Fork this repository to your own github organisation, if desired you can use different name for the repository while forking. More information on how to do that can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) or watch the [demo video](https://youtu.be/Ycq1HamGa9I).
+1) Fork this repository to your own github organisation, if desired you can use different name for the repository while forking. More information on how to do that can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) or watch the [demo video](https://youtu.be/v53tevQV-7I).
 
-2) Clone the forked repository to your computer using the following command in a terminal ([demo video](https://youtu.be/Y53Cny4LHNo))
+2) Clone the forked repository to your computer using the following command in a terminal ([demo video](https://youtu.be/671ij1kB2EU))
 
     ```
     git clone --recursive <your fork url>
@@ -49,7 +51,7 @@ The following steps are for a quick setup/starting guide, `Hugo` should have bee
     cd <repository name>
     ```
 
-4) Start `hugo` and see if works as expected ([demo video](https://youtu.be/6lJ43sGCPzY))
+4) Start `hugo` and see if works as expected ([demo video](https://youtu.be/L4cLXx90dJI))
 
     ```
     hugo serve
