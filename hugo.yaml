@@ -16,10 +16,12 @@ languages:
 params:
   title: "Node Pathogens Portal"
   description: "Node Pathogens Portal provides information about available datasets, resources, tools, and services related to pandemic preparedness."
+  # images mentioned below are used for preview while sharing the URL. Example if you post in twitter, etc
   images:
     - /img/pathogens_logo.svg
   # local node info, logo will be displayed above pathogens logo
   # given 'node_country' is an example, change the value to actual country
+  portal_logo: "/img/pathogens_logo.svg"
   node_logo: "/img/example_logo.png"
   node_url: "https://example.com/"
   node_country: "Sweden"
