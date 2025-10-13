@@ -1,6 +1,6 @@
 # Should be replaced with real one during implementation
-baseURL: "https://pathogensportal.node/"
-title: "Node Pathogens Portal"
+baseURL: "https://pathogens.ibt.unam.mx/"
+title: "México Pathogens Portal"
 theme: "node-pathogens-portal-theme"
 
 # page with date in future will be included in the build
@@ -14,17 +14,19 @@ languages:
 
 # some parameters that can be used across site, such variable can be defined here than in front matter
 params:
-  title: "Node Pathogens Portal"
-  description: "Node Pathogens Portal provides information about available datasets, resources, tools, and services related to pandemic preparedness."
+  title: "México Pathogens Portal"
+  description: "Mexico Pathogens Portal provides information about available datasets, resources, tools, and services related to pandemic preparedness."
   # images mentioned below are used for preview while sharing the URL. Example if you post in twitter, etc
   images:
     - /img/pathogens_logo.svg
   # local node info, logo will be displayed above pathogens logo
   # given 'node_country' is an example, change the value to actual country
-  portal_logo: "/img/pathogens_logo.svg"
-  node_logo: "/img/example_logo.png"
-  node_url: "https://example.com/"
-  node_country: "Sweden"
+  portal_logo: "/img/Pathogens-Portal-Logo-Mexico-FINAL.png" 
+  #portal_logo: "/img/pathogens_logo.svg"
+  node_logo: "/img/logo-ibt-azul-unam.png" 
+  #node_logo: "/img/example_logo.png"
+  node_url: "https://pathogens.ibt.unam.mx/"
+  node_country: "Mexico"
   # social media accounts URL to display in footer if desired
   social_media:
     show_in_footer: true

@@ -7,6 +7,7 @@ banner_large: /highlights/banners/demo_logo.jpg # banner_large is used for the l
 banner_caption: "Demo caption" # banner_caption is used for the caption of the banner image
 highlights_topics: [demotopic2] # highlights_topics are used for filtering highlights
 tags: [demo] # tags are used for related highlights
+draft: True
 ---
 
 This is a demo data highlight item.

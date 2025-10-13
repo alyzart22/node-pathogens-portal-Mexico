@@ -8,6 +8,7 @@ menu:
     identifier: external_dashboard
 dashboards_topics: [demotopic1]
 redirect_url: "https://data.who.int/dashboards/global-progress"
+draft: true
 ---
 
 An example for external dashboard

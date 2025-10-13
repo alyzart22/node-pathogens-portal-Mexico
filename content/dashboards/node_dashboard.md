@@ -7,6 +7,8 @@ menu:
     name: Dashboards developed by the Portal Node
     identifier: node_dashboard
 dashboards_topics: [demotopic2]
+
+draft: true
 ---
 
 Under this section, dashboards developed by local user communities using software components developed by the Pathogens Data Network project.
