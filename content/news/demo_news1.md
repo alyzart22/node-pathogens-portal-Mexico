@@ -5,6 +5,7 @@ summary: Sample news summary on Portal Launch
 banner: /news/banners/news1.png
 banner_large: /news/banners/news1.png
 banner_caption: Sample news banner caption
+draft: True
 ---
 
 This is a demo news item about portal launch.

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+    {{- partial "head.html" . -}}
+    <body>
+        <!-- Add a skip link for screen assitive technologies to go the the main content -->
+        <a class="visually-hidden-focusable" href="#content">Skip to main content</a>
+        {{- partial "navbar.html" . -}}
+        {{- partial "header.html" . -}}
+        <!-- if a page should inclue TOC -->
+        {{ if .Params.toc }}
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 order-md-last toc">{{- partial "toc.html" . -}}</div>
+                    <div class="col-md-9 order-md-first content" id="content">{{- block "main" . }}{{- end }}</div>
+                </div>
+            </div>
+        {{ else }}
+            <div class="container content" id="content">
+                {{- block "main" . }}{{- end }}
+            </div>
+        {{ end }}
+        <!-- parners solo aparece en home -->
+        {{ if .IsHome }}
+        {{- partial "partners.html" . -}}
+      {{ end }}
+
+        {{- partial "footer.html" . -}}
+    </body>
+</html>

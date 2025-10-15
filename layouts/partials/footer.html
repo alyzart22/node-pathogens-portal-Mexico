@@ -1,0 +1,77 @@
+<footer class="container border-top mt-4 mb-2">
+    <div class="row border-bottom pt-3 pb-2">
+
+        <!-- About section -->
+        <div class="col-md px-5 px-md-2">
+            <h2 class="small text-uppercase text-muted">About</h2>
+            <ul class="list-unstyled mb-1">
+                {{ range .Site.Menus.footer_about }}
+                <li><a href="{{ .Page.RelPermalink }}">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </div>
+
+        {{ if .Site.Params.social_media.show_in_footer }}
+        <!-- Connect -->
+        <div class="col-md px-5 px-md-2">
+            <h2 class="small text-uppercase text-muted">Connect</h2>
+            <div>
+              {{ with .Site.Params.social_media.linkedin_url }}
+              <a style="font-size:1.75em;" target="_blank" aria-label="Official LinkedIn handle"
+                href="{{ . }}"><i class="bi bi-linkedin"></i></a>
+              {{ end }}
+              {{ with .Site.Params.social_media.twitter_url }}
+              <a class="ps-2" style="font-size:1.75em;" target="_blank" aria-label="Official Twitter handle" 
+                href="{{ . }}"><i class="bi bi-twitter-x"></i></a>
+              {{ end }}
+              {{ with .Site.Params.social_media.contact_email }}
+              <a class="ps-2" style="font-size:1.90em;" target="_blank" aria-label="Contact email link" 
+                href="mailto:{{ . }}"><i class="bi bi-envelope-fill"></i></a>
+              {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    <!-- Project funding info and license -->
+    <div class="row mt-2">
+        <div class="col-md-10 small px-5 px-md-2 pt-1">
+            <p class="mb-2">
+              Mexico Pathogens Portal is supported by the Swiss Institute of Bioinformatics (SIB), which is the coordinator of the Pathogen Data Network (PDN) project. This project is supported by the National Institute Of Allergy And Infectious Diseases of the National Institutes of Health under 
+              Award Number U24AI183840. The content is solely the responsibility of the authors and does not necessarily represent the official 
+              views of the National Institutes of Health.
+            </p>
+            <p class="mb-1">
+              The website content is licensed under the <a target="_blank" rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+              CC-BY 4.0 International License <i class="bi bi-cc-circle" style="vertical-align:text-top;"></i></a>
+            </p>
+            <p>
+              The website code is licensed under the <a target="_blank" rel="license" href="https://opensource.org/license/mit">MIT license</a> 
+              and it is available on <a target="_blank" href="{{ with .Site.Params.git_repository }}{{ . }}{{ end }}">Github <i class="bi bi-github"></i></a>
+            </p>
+        </div>
+        <div class="col-md-2 px-5 px-md-0">
+            <a target="_blank" href="https://pathogendatanetwork.org/">
+              <img src="/img/pdn_logo.png" alt="Funded by the PDN">
+            </a>
+        </div>
+    </div>
+
+     <!-- Project funding info and license -->
+    <div class="row mt-2">
+    <p style="font-size: 0.8em;">
+      Image credits:
+      Coronavirus by <a href="https://unsplash.com/photos/red-and-white-flower-petals-k0KRNtqcjfw" target="_blank" rel="noopener">CDC</a> via Unsplash</a>,
+      Mpox & Zika by <a href="https://unsplash.com/@niaid?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" target="_blank" rel="noopener">National Institute of Allergy and Infectious Diseases  </a> via Unsplash</a>,
+      Wastewater surveillance by <a href="https://unsplash.com/es/fotos/vista-superior-de-estructuras-de-hormigon-Ac97OqAWDvg" target="_blank" rel="noopener">Ivan Bandura </a> via Unsplash</a>,
+      Dengue, Influenza, RSV y SARS-CoV-2 Epidemiologic surveillance was generated ChatGPT</a> 
+       </p>
+    </div>
+
+
+      
+
+</footer>
+
+<!-- Bootstrap Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>

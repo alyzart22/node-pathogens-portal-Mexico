@@ -2,7 +2,7 @@
 title: "Sample news 2 on Portal launch"
 date: 2021-11-12
 summary: Sample news 2 summary on Portal Launch
-
+draft: True 
 ---
 
 This is a demo news item about portal launch.

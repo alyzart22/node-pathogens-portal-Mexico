@@ -1,7 +1,7 @@
 ---
 title: "Mi entrada con imagen"
 date: 2025-06-16
-draft: false
+draft: True
 
 ---
 
