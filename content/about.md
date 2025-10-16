@@ -12,7 +12,8 @@ menu:
 ---
 
 ## About
+The México Pathogens Portal is a regional platform for sharing data and analysis results on infectious diseases. The portal serves as a hub for researchers, public health officials, and the general public to access and exchange information on infectious disease data within Mexico.
 
-The Pathogens Portal is a platform for sharing data and analysis results on infectious diseases. The portal is designed to be a regional hub for researchers, public health officials, and the general public to access and share data on infectious diseases.
+The México Pathogens Portal is part of the Pathogen Portal Nodes(PPN) initiative, in collaboration with the Central Pathogens Portal, connecting regional Pathogen Portal Nodes (PPNs) to promote open data sharing and scientific collaboration.
 
 The Pathogen Portal Nodes(PPN) will be a part of the <a target="_blank" href="https://pathogendatanetwork.org/">Pathogen Data Network</a> (PDN) working in collaboration with <a target="_blank" href="https://www.pathogensportal.org/">Central Pathogens Portal</a>. For more information about PPN and PDN checkout this <a href="/docs/Onboarding_Introduction.pdf">onboarding material</a>.

@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viruses on México Pathogens Portal</title>
-    <link>http://localhost:35931/dashboards/topics/viruses/</link>
+    <link>http://localhost:36205/dashboards/topics/viruses/</link>
     <description>Recent content in Viruses on México Pathogens Portal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:35931/dashboards/topics/viruses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36205/dashboards/topics/viruses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dengue</title>
-      <link>http://localhost:35931/dashboards/dengue/</link>
+      <link>http://localhost:36205/dashboards/dengue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/dengue/</guid>
+      <guid>http://localhost:36205/dashboards/dengue/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Provides updated information on dengue in Mexico, including weekly cases, geographic distribution, serotype trends, and comparisons with previous years. The aim is to support national surveillance, characterize transmission dynamics, and offer valuable insights for public health decision-making.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Influenza</title>
-      <link>http://localhost:35931/dashboards/influenza/</link>
+      <link>http://localhost:36205/dashboards/influenza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/influenza/</guid>
+      <guid>http://localhost:36205/dashboards/influenza/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Offers insights into influenza activity across Mexico, highlighting weekly case trends, seasonal peaks, subtype circulation, and year-to-year variation. The objective is to enhance national surveillance, anticipate transmission dynamics, and support timely public health responses.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Mpox</title>
-      <link>http://localhost:35931/dashboards/mpox/</link>
+      <link>http://localhost:36205/dashboards/mpox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/mpox/</guid>
+      <guid>http://localhost:36205/dashboards/mpox/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;Presents data on mpox circulation in Mexico, including reported cases, geographic spread, and temporal dynamics. The goal is to reinforce national surveillance, monitor transmission trends, and provide evidence to guide public health strategies.&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>RSV</title>
-      <link>http://localhost:35931/dashboards/rsv/</link>
+      <link>http://localhost:36205/dashboards/rsv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/rsv/</guid>
+      <guid>http://localhost:36205/dashboards/rsv/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Provides information on RSV circulation in Mexico, including weekly cases, seasonal distribution, and transmission patterns across children and adults. The purpose is to strengthen epidemiological surveillance, identify periods of higher risk, and deliver key data for outbreak prevention and control.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SARS-CoV-2</title>
-      <link>http://localhost:35931/dashboards/sars-cov-2/</link>
+      <link>http://localhost:36205/dashboards/sars-cov-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/sars-cov-2/</guid>
-      <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Explore SARS-CoV-2 genomic and epidemiological data in Mexico. This dashboard supports national genomic and epidemiological surveillance efforts by providing weekly updates on variant circulation, transmission patterns, and outbreak dynamics, integrating sequencing and case data for informed public health decision-making. These efforts are led by the Mexican Consortium for Genomic Surveillance (CoViGen-Mex), a collaborative initiative involving multiple academic and public health institutions. CoViGen-Mex operates within the framework of the National Virology Research and Incidence Project (CONAHCYT), in coordination with the Institute of Epidemiological Diagnosis and Reference (InDRE), and in accordance with guidelines established by the General Directorate of Epidemiology of the Ministry of Health.&lt;/p&gt;</description>
+      <guid>http://localhost:36205/dashboards/sars-cov-2/</guid>
+      <description>&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Explore SARS-CoV-2 genomic and epidemiological data in Mexico. This dashboard supports national genomic and epidemiological surveillance efforts by providing weekly updates on variant circulation, transmission patterns, and outbreak dynamics, integrating sequencing and case data for informed public health decision-making. These efforts are led by the Mexican Consortium for Genomic Surveillance (CoViGen-Mex), a collaborative initiative involving multiple academic and public health institutions. CoViGen-Mex operates within the framework of the National Virology Research and Incidence Project (CONAHCYT), in coordination with the Institute of Epidemiological Diagnosis and Reference (InDRE), and in accordance with guidelines established by the General Directorate of Epidemiology of the Ministry of Health.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wastewater surveillance</title>
-      <link>http://localhost:35931/dashboards/wastewater-surveillance/</link>
+      <link>http://localhost:36205/dashboards/wastewater-surveillance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/wastewater-surveillance/</guid>
+      <guid>http://localhost:36205/dashboards/wastewater-surveillance/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Wastewater-based surveillance (WWBS) is one of the most promising alternatives to clinical surveillance for human viral pathogens and has gained momentum in several Global North countries as a consequence of the contraction of the worldwide monitoring effort during the COVID-19. Even though relevant WWBS studies were set during 2020 to monitor its infectious agent, the SARS-CoV-2 virus, no major coordinated effort has been yet established in Mexico for these techniques.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zika</title>
-      <link>http://localhost:35931/dashboards/zika/</link>
+      <link>http://localhost:36205/dashboards/zika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/zika/</guid>
+      <guid>http://localhost:36205/dashboards/zika/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;Delivers information on Zika virus circulation in Mexico, including reported cases, geographic distribution, and temporal trends. The aim is to strengthen epidemiological surveillance, track transmission patterns, and support public health decision-making.&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

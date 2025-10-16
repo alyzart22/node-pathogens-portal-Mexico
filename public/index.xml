@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mexico Pathogens Portal on México Pathogens Portal</title>
-    <link>http://localhost:35931/</link>
+    <link>http://localhost:36205/</link>
     <description>Recent content in Mexico Pathogens Portal on México Pathogens Portal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:35931/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36205/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CoViGen</title>
-      <link>http://localhost:35931/dashboards/covigen/</link>
+      <link>http://localhost:36205/dashboards/covigen/</link>
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/covigen/</guid>
+      <guid>http://localhost:36205/dashboards/covigen/</guid>
       <description>Visualización interactiva de casos de virus emergentes en América Latina.</description>
     </item>
     <item>
       <title>CoViGen-Mex</title>
-      <link>http://localhost:35931/news/covigen/</link>
+      <link>http://localhost:36205/news/covigen/</link>
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/news/covigen/</guid>
+      <guid>http://localhost:36205/news/covigen/</guid>
       <description>Mexican Consortium for Genomic Surveillance.</description>
     </item>
     <item>
       <title>About the node pathogens portal</title>
-      <link>http://localhost:35931/about/</link>
+      <link>http://localhost:36205/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/about/</guid>
-      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;p&gt;The Pathogens Portal is a platform for sharing data and analysis results on infectious diseases. The portal is designed to be a regional hub for researchers, public health officials, and the general public to access and share data on infectious diseases.&lt;/p&gt;&#xA;&lt;p&gt;The Pathogen Portal Nodes(PPN) will be a part of the &lt;a target=&#34;_blank&#34; href=&#34;https://pathogendatanetwork.org/&#34;&gt;Pathogen Data Network&lt;/a&gt; (PDN) working in collaboration with &lt;a target=&#34;_blank&#34; href=&#34;https://www.pathogensportal.org/&#34;&gt;Central Pathogens Portal&lt;/a&gt;. For more information about PPN and PDN checkout this &lt;a href=&#34;http://localhost:35931/docs/Onboarding_Introduction.pdf&#34;&gt;onboarding material&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:36205/about/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;p&gt;The México Pathogens Portal is a regional platform for sharing data and analysis results on infectious diseases. The portal serves as a hub for researchers, public health officials, and the general public to access and exchange information on infectious disease data within Mexico.&lt;/p&gt;&#xA;&lt;p&gt;The México Pathogens Portal is part of the Pathogen Portal Nodes(PPN) initiative, in collaboration with the Central Pathogens Portal, connecting regional Pathogen Portal Nodes (PPNs) to promote open data sharing and scientific collaboration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact and suggestions form</title>
-      <link>http://localhost:35931/contact/</link>
+      <link>http://localhost:36205/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/contact/</guid>
+      <guid>http://localhost:36205/contact/</guid>
       <description>&lt;h3&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;For any inquiries about Mexico Pathogens Portal, please contact our team.&lt;/p&gt;&#xA;&lt;h3&gt;Portal Team&lt;/h3&gt;&#xA;&lt;p&gt;&#xA;  &lt;strong&gt;PhD. Fidel Alejandro Sanchez Flores&lt;/strong&gt; (Project leader)&lt;br&gt;&#xA;  Unidad Universitaria de Secuenciación Masiva y Bioinformática &lt;br&gt;&#xA;  Instituto de Biotecnología, Universidad Nacional Autónoma de México&lt;br&gt;&#xA;&lt;a href=&#34;mailto:alejandro.sanchez@ibt.unam.mx&#34;&gt;alejandro.sanchez@ibt.unam.mx&lt;/a&gt;</description>
     </item>
     <item>
       <title>COVID-19</title>
-      <link>http://localhost:35931/topics/covid-19/</link>
+      <link>http://localhost:36205/topics/covid-19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/topics/covid-19/</guid>
+      <guid>http://localhost:36205/topics/covid-19/</guid>
       <description></description>
     </item>
     <item>
       <title>Dengue</title>
-      <link>http://localhost:35931/dashboards/dengue/</link>
+      <link>http://localhost:36205/dashboards/dengue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/dengue/</guid>
+      <guid>http://localhost:36205/dashboards/dengue/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Provides updated information on dengue in Mexico, including weekly cases, geographic distribution, serotype trends, and comparisons with previous years. The aim is to support national surveillance, characterize transmission dynamics, and offer valuable insights for public health decision-making.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Funding</title>
-      <link>http://localhost:35931/funding_page/</link>
+      <link>http://localhost:36205/funding_page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/funding_page/</guid>
-      <description>&lt;div class=&#34;container py-5&#34;&gt;&#xA;  &lt;h2 class=&#34;text-center mb-4&#34;&gt;Funding&lt;/h2&gt;&#xA;    &lt;hr style=&#34;border: none; border-top: 2px solid #ffffff; width: 100%; margin: 0 auto 2rem auto;&#34;&gt;&#xA;  &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 0 auto 2rem auto;&#34;&gt;&#xA;  &lt;!-- Título --&gt;&#xA;  &lt;h4 class=&#34;text-center mb-4&#34;&gt;SARS-CoV-2&lt;/h4&gt;&#xA;  &lt;!-- Fila de tarjetas centradas --&gt;&#xA;  &lt;div class=&#34;row g-4 justify-content-center&#34;&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://lms.conahcyt.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/conahcyt.png&#34; alt=&#34;conacyt&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://ahfinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/ahf.png&#34; alt=&#34;ahf&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://dgapa.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/dgapa.png&#34; alt=&#34;dgapa&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://www.sectei.cdmx.gob.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/sectei.png&#34; alt=&#34;sectei&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://anrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/anrs.svg&#34; alt=&#34;anrs&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 0 auto 2rem auto;&#34;&gt;&#xA;  &lt;!-- Título --&gt;&#xA;  &lt;h4 class=&#34;text-center mb-4&#34;&gt;Influenza&lt;/h4&gt;&#xA;  &lt;!-- Fila de tarjetas centradas --&gt;&#xA;  &lt;div class=&#34;row g-4 justify-content-center&#34;&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://lms.conahcyt.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/conahcyt.png&#34; alt=&#34;conacyt&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://dgapa.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/dgapa.png&#34; alt=&#34;dgapa&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://www.sectei.cdmx.gob.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/sectei.png&#34; alt=&#34;sectei&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 2rem auto 0 auto;&#34;&gt;&#xA; &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 0 auto 2rem auto;&#34;&gt;&#xA;  &lt;!-- Título --&gt;&#xA;  &lt;h4 class=&#34;text-center mb-4&#34;&gt;RSV&lt;/h4&gt;&#xA;  &lt;!-- Fila de tarjetas centradas --&gt;&#xA;  &lt;div class=&#34;row g-4 justify-content-center&#34;&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://lms.conahcyt.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/conahcyt.png&#34; alt=&#34;conacyt&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://www.sectei.cdmx.gob.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:35931/images/sectei.png&#34; alt=&#34;sectei&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 2rem auto 0 auto;&#34;&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:36205/funding_page/</guid>
+      <description>&lt;div class=&#34;container py-5&#34;&gt;&#xA;  &lt;h2 class=&#34;text-center mb-4&#34;&gt;Funding&lt;/h2&gt;&#xA;    &lt;hr style=&#34;border: none; border-top: 2px solid #ffffff; width: 100%; margin: 0 auto 2rem auto;&#34;&gt;&#xA;  &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 0 auto 2rem auto;&#34;&gt;&#xA;  &lt;!-- Título --&gt;&#xA;  &lt;h4 class=&#34;text-center mb-4&#34;&gt;SARS-CoV-2&lt;/h4&gt;&#xA;  &lt;!-- Fila de tarjetas centradas --&gt;&#xA;  &lt;div class=&#34;row g-4 justify-content-center&#34;&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://lms.conahcyt.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/conahcyt.png&#34; alt=&#34;conacyt&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://ahfinstitute.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/ahf.png&#34; alt=&#34;ahf&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://dgapa.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/dgapa.png&#34; alt=&#34;dgapa&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://www.sectei.cdmx.gob.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/sectei.png&#34; alt=&#34;sectei&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://anrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/anrs.svg&#34; alt=&#34;anrs&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 0 auto 2rem auto;&#34;&gt;&#xA;  &lt;!-- Título --&gt;&#xA;  &lt;h4 class=&#34;text-center mb-4&#34;&gt;Influenza&lt;/h4&gt;&#xA;  &lt;!-- Fila de tarjetas centradas --&gt;&#xA;  &lt;div class=&#34;row g-4 justify-content-center&#34;&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://lms.conahcyt.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/conahcyt.png&#34; alt=&#34;conacyt&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://dgapa.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/dgapa.png&#34; alt=&#34;dgapa&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://www.sectei.cdmx.gob.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/sectei.png&#34; alt=&#34;sectei&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 2rem auto 0 auto;&#34;&gt;&#xA; &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 0 auto 2rem auto;&#34;&gt;&#xA;  &lt;!-- Título --&gt;&#xA;  &lt;h4 class=&#34;text-center mb-4&#34;&gt;RSV&lt;/h4&gt;&#xA;  &lt;!-- Fila de tarjetas centradas --&gt;&#xA;  &lt;div class=&#34;row g-4 justify-content-center&#34;&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://lms.conahcyt.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/conahcyt.png&#34; alt=&#34;conacyt&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-6 col-md-4 col-lg-2 d-flex justify-content-center&#34;&gt;&#xA;      &lt;div class=&#34;card border-0 shadow-sm p-3 d-flex align-items-center justify-content-center&#34; style=&#34;height: 150px;&#34;&gt;&#xA;        &lt;a href=&#34;https://www.sectei.cdmx.gob.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:36205/images/sectei.png&#34; alt=&#34;sectei&#34; class=&#34;img-fluid&#34; style=&#34;max-height: 100px;&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- Línea gris clara centrada --&gt;&#xA;  &lt;hr style=&#34;border: none; border-top: 2px solid #d8d8d8; width: 100%; margin: 2rem auto 0 auto;&#34;&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Influenza</title>
-      <link>http://localhost:35931/dashboards/influenza/</link>
+      <link>http://localhost:36205/dashboards/influenza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/influenza/</guid>
+      <guid>http://localhost:36205/dashboards/influenza/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Offers insights into influenza activity across Mexico, highlighting weekly case trends, seasonal peaks, subtype circulation, and year-to-year variation. The objective is to enhance national surveillance, anticipate transmission dynamics, and support timely public health responses.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Influenza</title>
-      <link>http://localhost:35931/topics/influenza/</link>
+      <link>http://localhost:36205/topics/influenza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/topics/influenza/</guid>
+      <guid>http://localhost:36205/topics/influenza/</guid>
       <description></description>
     </item>
     <item>
       <title>Mpox</title>
-      <link>http://localhost:35931/dashboards/mpox/</link>
+      <link>http://localhost:36205/dashboards/mpox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/mpox/</guid>
+      <guid>http://localhost:36205/dashboards/mpox/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;Presents data on mpox circulation in Mexico, including reported cases, geographic spread, and temporal dynamics. The goal is to reinforce national surveillance, monitor transmission trends, and provide evidence to guide public health strategies.&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>RSV</title>
-      <link>http://localhost:35931/dashboards/rsv/</link>
+      <link>http://localhost:36205/dashboards/rsv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/rsv/</guid>
+      <guid>http://localhost:36205/dashboards/rsv/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Provides information on RSV circulation in Mexico, including weekly cases, seasonal distribution, and transmission patterns across children and adults. The purpose is to strengthen epidemiological surveillance, identify periods of higher risk, and deliver key data for outbreak prevention and control.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SARS-CoV-2</title>
-      <link>http://localhost:35931/dashboards/sars-cov-2/</link>
+      <link>http://localhost:36205/dashboards/sars-cov-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/sars-cov-2/</guid>
+      <guid>http://localhost:36205/dashboards/sars-cov-2/</guid>
       <description>&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Explore SARS-CoV-2 genomic and epidemiological data in Mexico. This dashboard supports national genomic and epidemiological surveillance efforts by providing weekly updates on variant circulation, transmission patterns, and outbreak dynamics, integrating sequencing and case data for informed public health decision-making. These efforts are led by the Mexican Consortium for Genomic Surveillance (CoViGen-Mex), a collaborative initiative involving multiple academic and public health institutions. CoViGen-Mex operates within the framework of the National Virology Research and Incidence Project (CONAHCYT), in coordination with the Institute of Epidemiological Diagnosis and Reference (InDRE), and in accordance with guidelines established by the General Directorate of Epidemiology of the Ministry of Health.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SARS-CoV-2</title>
-      <link>http://localhost:35931/topics/sars-cov-2/</link>
+      <link>http://localhost:36205/topics/sars-cov-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/topics/sars-cov-2/</guid>
+      <guid>http://localhost:36205/topics/sars-cov-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Submit</title>
-      <link>http://localhost:35931/submit/</link>
+      <link>http://localhost:36205/submit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/submit/</guid>
+      <guid>http://localhost:36205/submit/</guid>
       <description>&lt;div class=&#34;card mb-3 p-3 text-center&#34;&gt;&#xA;  &lt;h4 class=&#34;mb-2&#34;&gt;Submit Section&lt;/h4&gt;&#xA;  &lt;p class=&#34;mb-2 small text-muted&#34;&gt;Work in progress&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:35931/tutorial/</link>
+      <link>http://localhost:36205/tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/tutorial/</guid>
+      <guid>http://localhost:36205/tutorial/</guid>
       <description>&lt;div class=&#34;card mb-3 p-3 text-center&#34;&gt;&#xA;  &lt;h4 class=&#34;mb-2&#34;&gt;Tutorial&lt;/h4&gt;&#xA;  &lt;p class=&#34;mb-2 small text-muted&#34;&gt;Work in progress&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Viruses</title>
-      <link>http://localhost:35931/topics/viruses/</link>
+      <link>http://localhost:36205/topics/viruses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/topics/viruses/</guid>
+      <guid>http://localhost:36205/topics/viruses/</guid>
       <description></description>
     </item>
     <item>
       <title>Wastewater surveillance</title>
-      <link>http://localhost:35931/dashboards/wastewater-surveillance/</link>
+      <link>http://localhost:36205/dashboards/wastewater-surveillance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/wastewater-surveillance/</guid>
+      <guid>http://localhost:36205/dashboards/wastewater-surveillance/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Wastewater-based surveillance (WWBS) is one of the most promising alternatives to clinical surveillance for human viral pathogens and has gained momentum in several Global North countries as a consequence of the contraction of the worldwide monitoring effort during the COVID-19. Even though relevant WWBS studies were set during 2020 to monitor its infectious agent, the SARS-CoV-2 virus, no major coordinated effort has been yet established in Mexico for these techniques.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wastewater surveillance</title>
-      <link>http://localhost:35931/topics/wastewater/</link>
+      <link>http://localhost:36205/topics/wastewater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/topics/wastewater/</guid>
+      <guid>http://localhost:36205/topics/wastewater/</guid>
       <description></description>
     </item>
     <item>
       <title>Zika</title>
-      <link>http://localhost:35931/dashboards/zika/</link>
+      <link>http://localhost:36205/dashboards/zika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/zika/</guid>
+      <guid>http://localhost:36205/dashboards/zika/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;Delivers information on Zika virus circulation in Mexico, including reported cases, geographic distribution, and temporal trends. The aim is to strengthen epidemiological surveillance, track transmission patterns, and support public health decision-making.&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wastewater on México Pathogens Portal</title>
-    <link>http://localhost:35931/dashboards/topics/wastewater/</link>
+    <link>http://localhost:36205/dashboards/topics/wastewater/</link>
     <description>Recent content in Wastewater on México Pathogens Portal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:35931/dashboards/topics/wastewater/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36205/dashboards/topics/wastewater/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wastewater surveillance</title>
-      <link>http://localhost:35931/dashboards/wastewater-surveillance/</link>
+      <link>http://localhost:36205/dashboards/wastewater-surveillance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35931/dashboards/wastewater-surveillance/</guid>
+      <guid>http://localhost:36205/dashboards/wastewater-surveillance/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Wastewater-based surveillance (WWBS) is one of the most promising alternatives to clinical surveillance for human viral pathogens and has gained momentum in several Global North countries as a consequence of the contraction of the worldwide monitoring effort during the COVID-19. Even though relevant WWBS studies were set during 2020 to monitor its infectious agent, the SARS-CoV-2 virus, no major coordinated effort has been yet established in Mexico for these techniques.&lt;/p&gt;</description>
     </item>
   </channel>
