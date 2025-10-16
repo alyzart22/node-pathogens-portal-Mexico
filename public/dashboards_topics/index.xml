@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dashboards_topics on México Pathogens Portal</title>
-    <link>http://localhost:36205/dashboards_topics/</link>
+    <link>http://localhost:37715/dashboards_topics/</link>
     <description>Recent content in Dashboards_topics on México Pathogens Portal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:36205/dashboards_topics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:37715/dashboards_topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19</title>
-      <link>http://localhost:36205/dashboards/topics/covid-19/</link>
+      <link>http://localhost:37715/dashboards/topics/covid-19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36205/dashboards/topics/covid-19/</guid>
+      <guid>http://localhost:37715/dashboards/topics/covid-19/</guid>
       <description></description>
     </item>
     <item>
       <title>Dengue</title>
-      <link>http://localhost:36205/dashboards/topics/dengue/</link>
+      <link>http://localhost:37715/dashboards/topics/dengue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36205/dashboards/topics/dengue/</guid>
+      <guid>http://localhost:37715/dashboards/topics/dengue/</guid>
       <description></description>
     </item>
     <item>
       <title>Influenza</title>
-      <link>http://localhost:36205/dashboards/topics/influenza/</link>
+      <link>http://localhost:37715/dashboards/topics/influenza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36205/dashboards/topics/influenza/</guid>
+      <guid>http://localhost:37715/dashboards/topics/influenza/</guid>
       <description></description>
     </item>
     <item>
       <title>Mpox</title>
-      <link>http://localhost:36205/dashboards/topics/mpox/</link>
+      <link>http://localhost:37715/dashboards/topics/mpox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36205/dashboards/topics/mpox/</guid>
+      <guid>http://localhost:37715/dashboards/topics/mpox/</guid>
       <description></description>
     </item>
     <item>
       <title>RSV</title>
-      <link>http://localhost:36205/dashboards/topics/rsv/</link>
+      <link>http://localhost:37715/dashboards/topics/rsv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36205/dashboards/topics/rsv/</guid>
+      <guid>http://localhost:37715/dashboards/topics/rsv/</guid>
       <description></description>
     </item>
     <item>
       <title>SARS-CoV-2</title>
-      <link>http://localhost:36205/dashboards/topics/sars-cov-2/</link>
+      <link>http://localhost:37715/dashboards/topics/sars-cov-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36205/dashboards/topics/sars-cov-2/</guid>
+      <guid>http://localhost:37715/dashboards/topics/sars-cov-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Viruses</title>
-      <link>http://localhost:36205/dashboards/topics/viruses/</link>
+      <link>http://localhost:37715/dashboards/topics/viruses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36205/dashboards/topics/viruses/</guid>
+      <guid>http://localhost:37715/dashboards/topics/viruses/</guid>
       <description></description>
     </item>
     <item>
       <title>Wastewater</title>
-      <link>http://localhost:36205/dashboards/topics/wastewater/</link>
+      <link>http://localhost:37715/dashboards/topics/wastewater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36205/dashboards/topics/wastewater/</guid>
+      <guid>http://localhost:37715/dashboards/topics/wastewater/</guid>
       <description></description>
     </item>
     <item>
       <title>Zika</title>
-      <link>http://localhost:36205/dashboards/topics/zika/</link>
+      <link>http://localhost:37715/dashboards/topics/zika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36205/dashboards/topics/zika/</guid>
+      <guid>http://localhost:37715/dashboards/topics/zika/</guid>
       <description></description>
     </item>
   </channel>
