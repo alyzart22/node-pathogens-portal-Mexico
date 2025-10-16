@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSV on México Pathogens Portal</title>
+    <link>http://localhost:35931/dashboards/topics/rsv/</link>
+    <description>Recent content in RSV on México Pathogens Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:35931/dashboards/topics/rsv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RSV</title>
+      <link>http://localhost:35931/dashboards/rsv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35931/dashboards/rsv/</guid>
+      <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Provides information on RSV circulation in Mexico, including weekly cases, seasonal distribution, and transmission patterns across children and adults. The purpose is to strengthen epidemiological surveillance, identify periods of higher risk, and deliver key data for outbreak prevention and control.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

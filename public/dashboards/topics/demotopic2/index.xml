@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demotopic2 on México Pathogens Portal</title>
+    <link>http://localhost:38647/dashboards/topics/demotopic2/</link>
+    <description>Recent content in Demotopic2 on México Pathogens Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:38647/dashboards/topics/demotopic2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboards developed by the Portal Node or its user community</title>
+      <link>http://localhost:38647/dashboards/node_dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38647/dashboards/node_dashboard/</guid>
+      <description>&lt;p&gt;Under this section, dashboards developed by local user communities using software components developed by the Pathogens Data Network project.&lt;/p&gt;&#xA;&lt;p&gt;For example, see &lt;a target=&#34;_blank&#34; href=&#34;https://www.pathogens.se/dashboards/variants_region_uppsala/&#34;&gt;SARS-CoV-2 variants dashboard&lt;/a&gt; in the Swedish pathogens portal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

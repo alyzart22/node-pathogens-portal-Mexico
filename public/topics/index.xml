@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on México Pathogens Portal</title>
+    <link>http://localhost:35931/topics/</link>
+    <description>Recent content in Topics on México Pathogens Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:35931/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID-19</title>
+      <link>http://localhost:35931/topics/covid-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35931/topics/covid-19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Influenza</title>
+      <link>http://localhost:35931/topics/influenza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35931/topics/influenza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SARS-CoV-2</title>
+      <link>http://localhost:35931/topics/sars-cov-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35931/topics/sars-cov-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Viruses</title>
+      <link>http://localhost:35931/topics/viruses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35931/topics/viruses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wastewater surveillance</title>
+      <link>http://localhost:35931/topics/wastewater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35931/topics/wastewater/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

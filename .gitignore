@@ -1,5 +1,5 @@
 # Hugo default output directory
-/public
+#/public
 
 # more Hugo stuff
 .hugo_build.lock
