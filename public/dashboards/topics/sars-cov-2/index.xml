@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SARS-CoV-2 on México Pathogens Portal</title>
-    <link>http://localhost:37715/dashboards/topics/sars-cov-2/</link>
+    <link>http://localhost:1313/dashboards/topics/sars-cov-2/</link>
     <description>Recent content in SARS-CoV-2 on México Pathogens Portal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:37715/dashboards/topics/sars-cov-2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dashboards/topics/sars-cov-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SARS-CoV-2</title>
-      <link>http://localhost:37715/dashboards/sars-cov-2/</link>
+      <link>http://localhost:1313/dashboards/sars-cov-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37715/dashboards/sars-cov-2/</guid>
+      <guid>http://localhost:1313/dashboards/sars-cov-2/</guid>
       <description>&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Explore SARS-CoV-2 genomic and epidemiological data in Mexico. This dashboard supports national genomic and epidemiological surveillance efforts by providing weekly updates on variant circulation, transmission patterns, and outbreak dynamics, integrating sequencing and case data for informed public health decision-making. These efforts are led by the Mexican Consortium for Genomic Surveillance (CoViGen-Mex), a collaborative initiative involving multiple academic and public health institutions. CoViGen-Mex operates within the framework of the National Virology Research and Incidence Project (CONAHCYT), in coordination with the Institute of Epidemiological Diagnosis and Reference (InDRE), and in accordance with guidelines established by the General Directorate of Epidemiology of the Ministry of Health.&lt;/p&gt;</description>
     </item>
   </channel>

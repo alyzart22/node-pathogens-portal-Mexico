@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Influenza on México Pathogens Portal</title>
-    <link>http://localhost:37715/dashboards/topics/influenza/</link>
+    <link>http://localhost:1313/dashboards/topics/influenza/</link>
     <description>Recent content in Influenza on México Pathogens Portal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:37715/dashboards/topics/influenza/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dashboards/topics/influenza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Influenza</title>
-      <link>http://localhost:37715/dashboards/influenza/</link>
+      <link>http://localhost:1313/dashboards/influenza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37715/dashboards/influenza/</guid>
+      <guid>http://localhost:1313/dashboards/influenza/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;&lt;p&gt;Offers insights into influenza activity across Mexico, highlighting weekly case trends, seasonal peaks, subtype circulation, and year-to-year variation. The objective is to enhance national surveillance, anticipate transmission dynamics, and support timely public health responses.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

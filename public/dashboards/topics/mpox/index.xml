@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mpox on México Pathogens Portal</title>
-    <link>http://localhost:37715/dashboards/topics/mpox/</link>
+    <link>http://localhost:1313/dashboards/topics/mpox/</link>
     <description>Recent content in Mpox on México Pathogens Portal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:37715/dashboards/topics/mpox/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dashboards/topics/mpox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mpox</title>
-      <link>http://localhost:37715/dashboards/mpox/</link>
+      <link>http://localhost:1313/dashboards/mpox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37715/dashboards/mpox/</guid>
+      <guid>http://localhost:1313/dashboards/mpox/</guid>
       <description>&lt;style&gt;&#xA;  .custom-border {&#xA;    border: 2px solid #295986;&#xA;  }&#xA;&#xA;  .btn-custom {&#xA;    background-color: #295986;&#xA;    color: white;&#xA;    border: none;&#xA;    transition: background-color 0.3s ease;&#xA;  }&#xA;&#xA;  .btn-custom:hover {&#xA;    background-color: #37ae94;&#xA;    color: white;&#xA;  }&#xA;&#xA;  .text-custom {&#xA;    color: #295986;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;container mt-4&#34;&gt;&#xA;Presents data on mpox circulation in Mexico, including reported cases, geographic spread, and temporal dynamics. The goal is to reinforce national surveillance, monitor transmission trends, and provide evidence to guide public health strategies.&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
